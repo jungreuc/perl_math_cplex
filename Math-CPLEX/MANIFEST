@@ -1,0 +1,17 @@
+Changes
+Base.xs
+const-c-iv.inc
+const-c-nv.inc
+const-xs-iv.inc
+const-xs-nv.inc
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/Math-CPLEX_indicator.t
+t/Math-CPLEX_lp.t
+t/Math-CPLEX_mip.t
+t/Math-CPLEX_qp.t
+lib/Math/CPLEX/Base.pm
+lib/Math/CPLEX/OP.pm
+lib/Math/CPLEX/Env.pm
